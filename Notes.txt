@@ -1,0 +1,2 @@
+1. Success create repo and clone repo to local machine
+2. Add this file
