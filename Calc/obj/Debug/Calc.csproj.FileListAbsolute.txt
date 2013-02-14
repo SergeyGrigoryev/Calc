@@ -1,0 +1,7 @@
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\bin\Debug\Calc.exe
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\bin\Debug\Calc.pdb
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\bin\Debug\nunit.framework.dll
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\bin\Debug\nunit.framework.xml
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\obj\Debug\Calc.exe
+D:\SergeyDeveloper\Dropbox\Git\Projects\Calc\Calc\obj\Debug\Calc.pdb
